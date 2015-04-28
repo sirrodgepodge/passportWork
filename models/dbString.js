@@ -1,1 +1,0 @@
-module.exports = 'mongodb://localhost/passport_local_mongoose_express4';
